@@ -46,7 +46,7 @@ app.post("/cadastrar", (request, response) => {
 })
 
 
-app.post("")
+//app.post("")
 
 //rota para o login
 
